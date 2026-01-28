@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Mac
+.DS_Store
+
+# Logs and Debug
+*.log
+debug_page.html
+error_debug_page.html
+error_screenshot.png
+site_dump.html
+
+# Note: last_seen.json is intentionally NOT ignored 
+# because it is used to persist state between GitHub Action runs.
