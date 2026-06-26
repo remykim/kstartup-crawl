@@ -106,13 +106,13 @@ def save_state(posts: dict[str, dict[str, Any]], ordered_ids: list[str]) -> None
         file.write("\n")
 
 
-async def send_telegram_message(message: str) -> None:
+async def send_telegram_message(message: str) -> bool:
     import aiohttp
 
     if not TELEGRAM_BOT_TOKEN or not TELEGRAM_CHAT_ID:
         print("Telegram configuration missing. Skipping message.")
         print(f"Message would be: {message}")
-        return
+        return False
 
     url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
     payload = {
@@ -127,6 +127,9 @@ async def send_telegram_message(message: str) -> None:
             if response.status != 200:
                 response_text = await response.text()
                 print(f"Failed to send Telegram message ({response.status}): {response_text[:500]}")
+                return False
+
+    return True
 
 
 async def launch_browser(playwright: Any) -> Browser | None:
@@ -225,17 +228,36 @@ def classify_snapshot(
     if previous is None:
         return "new"
 
-    previous_signature = previous.get("signature")
-    previous_was_target = previous.get("is_target") is True
+    notified_signature = previous.get("notified_signature")
 
-    if previous_signature is None:
-        return None
-    if not previous_was_target:
+    if notified_signature is None:
         return "new"
-    if previous_signature != snapshot.signature:
+    if notified_signature != snapshot.signature:
         return "updated"
 
     return None
+
+
+def snapshot_record(
+    snapshot: PostSnapshot,
+    previous: dict[str, Any] | None = None,
+) -> dict[str, Any]:
+    record = asdict(snapshot)
+    if previous:
+        for key in ("notified_at", "notified_signature"):
+            if key in previous:
+                record[key] = previous[key]
+
+    return record
+
+
+def mark_notified(posts: dict[str, dict[str, Any]], snapshot: PostSnapshot) -> None:
+    post = posts.get(snapshot.id)
+    if not post:
+        return
+
+    post["notified_at"] = now_iso()
+    post["notified_signature"] = snapshot.signature
 
 
 def format_message(snapshot: PostSnapshot, event_type: str) -> str:
@@ -285,7 +307,7 @@ async def crawl() -> None:
                 if event_type:
                     notifications.append((event_type, snapshot))
 
-                next_posts[post_id] = asdict(snapshot)
+                next_posts[post_id] = snapshot_record(snapshot, previous_posts.get(post_id))
         except Exception as exc:
             print(f"Error during crawl: {exc}")
             await page.screenshot(path="error_screenshot.png")
@@ -297,7 +319,8 @@ async def crawl() -> None:
     if notifications:
         print(f"Found {len(notifications)} notifications")
         for event_type, snapshot in notifications:
-            await send_telegram_message(format_message(snapshot, event_type))
+            if await send_telegram_message(format_message(snapshot, event_type)):
+                mark_notified(next_posts, snapshot)
     else:
         print("No new or updated valid posts found.")
 
