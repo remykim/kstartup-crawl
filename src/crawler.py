@@ -173,19 +173,25 @@ async def optional_text(page: Page, selector: str, fallback: str = "정보 없�
     return normalize_text(await locator.first.inner_text())
 
 
+async def first_available_text(page: Page, selectors: tuple[str, ...], timeout_ms: int = 5_000) -> str:
+    last_error: Exception | None = None
+    for selector in selectors:
+        try:
+            locator = page.locator(selector).first
+            await locator.wait_for(timeout=timeout_ms)
+            return normalize_text(await locator.inner_text())
+        except Exception as exc:
+            last_error = exc
+
+    raise RuntimeError(f"Could not find text with selectors {selectors}") from last_error
+
+
 async def extract_post_snapshot(page: Page, post_id: str) -> PostSnapshot:
     link = detail_url(post_id)
     print(f"Checking detail page: {link}")
     await page.goto(link, wait_until="networkidle", timeout=60_000)
 
-    try:
-        title_locator = page.locator("div.view_tit h3")
-        await title_locator.wait_for(timeout=5_000)
-        title = normalize_text(await title_locator.inner_text())
-    except Exception:
-        print("  Title verification failed, trying fallback")
-        title = normalize_text(await page.locator("h3").first.inner_text())
-
+    title = await first_available_text(page, ("div.view_tit h3", ".view_tit h3", "h3"))
     period = await optional_text(page, "#rcptPeriod")
     age = await optional_text(page, '//li[contains(., "대상연령")]//p[@class="txt"]')
     is_target = "전체" in age or "40세" in age
