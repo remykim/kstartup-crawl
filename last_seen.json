@@ -2,7 +2,7 @@
   "posts": {
     "171419": {
       "age": "전체",
-      "checked_at": "2026-06-30T23:00:51+00:00",
+      "checked_at": "2026-06-30T23:37:50+00:00",
       "id": "171419",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=171419",
@@ -14,7 +14,7 @@
     },
     "175783": {
       "age": "전체",
-      "checked_at": "2026-06-30T23:00:37+00:00",
+      "checked_at": "2026-06-30T23:37:34+00:00",
       "id": "175783",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=175783",
@@ -26,7 +26,7 @@
     },
     "176076": {
       "age": "전체",
-      "checked_at": "2026-06-30T23:00:23+00:00",
+      "checked_at": "2026-06-30T23:37:19+00:00",
       "id": "176076",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176076",
@@ -38,7 +38,7 @@
     },
     "176286": {
       "age": "전체",
-      "checked_at": "2026-06-30T23:00:10+00:00",
+      "checked_at": "2026-06-30T23:37:05+00:00",
       "id": "176286",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176286",
@@ -50,7 +50,7 @@
     },
     "176391": {
       "age": "전체",
-      "checked_at": "2026-06-30T22:59:56+00:00",
+      "checked_at": "2026-06-30T23:36:50+00:00",
       "id": "176391",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176391",
@@ -80,7 +80,7 @@
     },
     "177723": {
       "age": "전체",
-      "checked_at": "2026-06-30T23:02:41+00:00",
+      "checked_at": "2026-06-30T23:39:48+00:00",
       "id": "177723",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=177723",
@@ -140,7 +140,7 @@
     },
     "177947": {
       "age": "전체",
-      "checked_at": "2026-06-30T23:01:04+00:00",
+      "checked_at": "2026-06-30T23:38:04+00:00",
       "id": "177947",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=177947",
@@ -248,7 +248,7 @@
     },
     "178096": {
       "age": "전체",
-      "checked_at": "2026-06-30T23:02:27+00:00",
+      "checked_at": "2026-06-30T23:39:33+00:00",
       "id": "178096",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178096",
@@ -272,7 +272,7 @@
     },
     "178115": {
       "age": "전체",
-      "checked_at": "2026-06-30T23:02:13+00:00",
+      "checked_at": "2026-06-30T23:39:19+00:00",
       "id": "178115",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178115",
@@ -308,7 +308,7 @@
     },
     "178137": {
       "age": "전체",
-      "checked_at": "2026-06-30T23:02:00+00:00",
+      "checked_at": "2026-06-30T23:39:04+00:00",
       "id": "178137",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178137",
@@ -386,7 +386,7 @@
     },
     "178194": {
       "age": "전체",
-      "checked_at": "2026-06-30T23:01:46+00:00",
+      "checked_at": "2026-06-30T23:38:49+00:00",
       "id": "178194",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178194",
@@ -542,7 +542,7 @@
     },
     "178237": {
       "age": "전체",
-      "checked_at": "2026-06-30T23:01:18+00:00",
+      "checked_at": "2026-06-30T23:38:19+00:00",
       "id": "178237",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178237",
@@ -590,7 +590,7 @@
     },
     "178253": {
       "age": "전체",
-      "checked_at": "2026-06-30T23:01:32+00:00",
+      "checked_at": "2026-06-30T23:38:34+00:00",
       "id": "178253",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178253",
@@ -618,7 +618,7 @@
     },
     "178298": {
       "age": "만 20세 이상 ~ 만 39세 이하",
-      "checked_at": "2026-06-30T23:04:17+00:00",
+      "checked_at": "2026-06-30T23:41:33+00:00",
       "id": "178298",
       "is_target": false,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178298",
@@ -628,7 +628,7 @@
     },
     "178303": {
       "age": "전체",
-      "checked_at": "2026-06-30T23:05:41+00:00",
+      "checked_at": "2026-06-30T23:43:03+00:00",
       "id": "178303",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178303",
@@ -640,7 +640,7 @@
     },
     "178305": {
       "age": "전체",
-      "checked_at": "2026-06-30T23:05:54+00:00",
+      "checked_at": "2026-06-30T23:43:17+00:00",
       "id": "178305",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178305",
@@ -652,7 +652,7 @@
     },
     "178308": {
       "age": "전체",
-      "checked_at": "2026-06-30T23:04:31+00:00",
+      "checked_at": "2026-06-30T23:41:48+00:00",
       "id": "178308",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178308",
@@ -664,7 +664,7 @@
     },
     "178309": {
       "age": "전체",
-      "checked_at": "2026-06-30T23:04:45+00:00",
+      "checked_at": "2026-06-30T23:42:03+00:00",
       "id": "178309",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178309",
@@ -676,7 +676,7 @@
     },
     "178310": {
       "age": "전체",
-      "checked_at": "2026-06-30T23:04:59+00:00",
+      "checked_at": "2026-06-30T23:42:18+00:00",
       "id": "178310",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178310",
@@ -688,7 +688,7 @@
     },
     "178311": {
       "age": "만 20세 이상 ~ 만 39세 이하",
-      "checked_at": "2026-06-30T23:05:13+00:00",
+      "checked_at": "2026-06-30T23:42:32+00:00",
       "id": "178311",
       "is_target": false,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178311",
@@ -698,7 +698,7 @@
     },
     "178313": {
       "age": "만 20세 이상 ~ 만 39세 이하",
-      "checked_at": "2026-06-30T23:05:26+00:00",
+      "checked_at": "2026-06-30T23:42:48+00:00",
       "id": "178313",
       "is_target": false,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178313",
@@ -708,7 +708,7 @@
     },
     "178316": {
       "age": "만 20세 이상 ~ 만 39세 이하, 만 40세 이상",
-      "checked_at": "2026-06-30T23:06:08+00:00",
+      "checked_at": "2026-06-30T23:43:33+00:00",
       "id": "178316",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178316",
@@ -720,7 +720,7 @@
     },
     "178330": {
       "age": "만 20세 이상 ~ 만 39세 이하, 만 40세 이상",
-      "checked_at": "2026-06-30T23:02:55+00:00",
+      "checked_at": "2026-06-30T23:40:03+00:00",
       "id": "178330",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178330",
@@ -732,7 +732,7 @@
     },
     "178334": {
       "age": "만 20세 이상 ~ 만 39세 이하",
-      "checked_at": "2026-06-30T23:04:04+00:00",
+      "checked_at": "2026-06-30T23:41:18+00:00",
       "id": "178334",
       "is_target": false,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178334",
@@ -742,7 +742,7 @@
     },
     "178336": {
       "age": "전체",
-      "checked_at": "2026-06-30T23:03:08+00:00",
+      "checked_at": "2026-06-30T23:40:18+00:00",
       "id": "178336",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178336",
@@ -754,7 +754,7 @@
     },
     "178337": {
       "age": "전체",
-      "checked_at": "2026-06-30T23:03:22+00:00",
+      "checked_at": "2026-06-30T23:40:33+00:00",
       "id": "178337",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178337",
@@ -766,7 +766,7 @@
     },
     "178338": {
       "age": "전체",
-      "checked_at": "2026-06-30T23:03:36+00:00",
+      "checked_at": "2026-06-30T23:40:48+00:00",
       "id": "178338",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178338",
@@ -778,7 +778,7 @@
     },
     "178339": {
       "age": "전체",
-      "checked_at": "2026-06-30T23:03:50+00:00",
+      "checked_at": "2026-06-30T23:41:03+00:00",
       "id": "178339",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178339",
@@ -789,6 +789,6 @@
       "title": "2026 충남콘텐츠코리아랩 미드폼 영상콘텐츠 제작 지원사업"
     }
   },
-  "updated_at": "2026-06-30T23:06:08+00:00",
+  "updated_at": "2026-06-30T23:43:33+00:00",
   "version": 2
 }
