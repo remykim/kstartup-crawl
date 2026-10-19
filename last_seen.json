@@ -2,7 +2,7 @@
   "posts": {
     "171419": {
       "age": "전체",
-      "checked_at": "2026-10-18T23:30:35+00:00",
+      "checked_at": "2026-10-19T01:34:51+00:00",
       "id": "171419",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=171419",
@@ -14,7 +14,7 @@
     },
     "175783": {
       "age": "전체",
-      "checked_at": "2026-10-18T23:30:21+00:00",
+      "checked_at": "2026-10-19T01:34:37+00:00",
       "id": "175783",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=175783",
@@ -26,7 +26,7 @@
     },
     "176076": {
       "age": "전체",
-      "checked_at": "2026-10-18T23:30:07+00:00",
+      "checked_at": "2026-10-19T01:34:23+00:00",
       "id": "176076",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176076",
@@ -554,7 +554,7 @@
     },
     "178802": {
       "age": "전체",
-      "checked_at": "2026-10-18T23:29:39+00:00",
+      "checked_at": "2026-10-19T01:33:54+00:00",
       "id": "178802",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178802",
@@ -566,7 +566,7 @@
     },
     "178803": {
       "age": "전체",
-      "checked_at": "2026-10-18T23:29:53+00:00",
+      "checked_at": "2026-10-19T01:34:08+00:00",
       "id": "178803",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178803",
@@ -650,7 +650,7 @@
     },
     "179408": {
       "age": "전체",
-      "checked_at": "2026-10-18T23:31:03+00:00",
+      "checked_at": "2026-10-19T01:35:20+00:00",
       "id": "179408",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179408",
@@ -662,7 +662,7 @@
     },
     "179428": {
       "age": "전체",
-      "checked_at": "2026-10-18T23:30:49+00:00",
+      "checked_at": "2026-10-19T01:35:05+00:00",
       "id": "179428",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179428",
@@ -686,7 +686,7 @@
     },
     "179504": {
       "age": "전체",
-      "checked_at": "2026-10-18T23:34:21+00:00",
+      "checked_at": "2026-10-19T01:38:52+00:00",
       "id": "179504",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179504",
@@ -698,7 +698,7 @@
     },
     "179515": {
       "age": "만 20세 이상 ~ 만 39세 이하, 만 40세 이상",
-      "checked_at": "2026-10-18T23:34:07+00:00",
+      "checked_at": "2026-10-19T01:38:38+00:00",
       "id": "179515",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179515",
@@ -708,21 +708,9 @@
       "signature": "696bd1014c1b1433aaaed73ac63befb405afc40aab7142bc6fb122dacd594a93",
       "title": "2026 Invest Seoul Partners Night"
     },
-    "179516": {
-      "age": "만 20세 이상 ~ 만 39세 이하, 만 40세 이상",
-      "checked_at": "2026-10-18T23:34:35+00:00",
-      "id": "179516",
-      "is_target": true,
-      "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179516",
-      "notified_at": "2026-10-15T07:03:03+00:00",
-      "notified_signature": "bf1c48e827754aa23722c533af0e02e62b791c83908d8978ea6ffb255bc18e6f",
-      "period": "2026-10-14 ~ 2026-10-23 23:59",
-      "signature": "bf1c48e827754aa23722c533af0e02e62b791c83908d8978ea6ffb255bc18e6f",
-      "title": "2026-9회 충청권 엔젤투자 피칭룸 프로그램 참가기업 모집"
-    },
     "179519": {
       "age": "만 20세 이상 ~ 만 39세 이하, 만 40세 이상",
-      "checked_at": "2026-10-18T23:33:52+00:00",
+      "checked_at": "2026-10-19T01:38:24+00:00",
       "id": "179519",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179519",
@@ -734,7 +722,7 @@
     },
     "179520": {
       "age": "만 20세 이상 ~ 만 39세 이하, 만 40세 이상",
-      "checked_at": "2026-10-18T23:32:00+00:00",
+      "checked_at": "2026-10-19T01:36:16+00:00",
       "id": "179520",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179520",
@@ -746,7 +734,7 @@
     },
     "179522": {
       "age": "전체",
-      "checked_at": "2026-10-18T23:33:38+00:00",
+      "checked_at": "2026-10-19T01:38:10+00:00",
       "id": "179522",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179522",
@@ -758,7 +746,7 @@
     },
     "179523": {
       "age": "전체",
-      "checked_at": "2026-10-18T23:33:24+00:00",
+      "checked_at": "2026-10-19T01:37:56+00:00",
       "id": "179523",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179523",
@@ -770,7 +758,7 @@
     },
     "179524": {
       "age": "전체",
-      "checked_at": "2026-10-18T23:32:56+00:00",
+      "checked_at": "2026-10-19T01:37:13+00:00",
       "id": "179524",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179524",
@@ -780,9 +768,21 @@
       "signature": "b99111ec5edd32484f6f66d028f5e61d9764a3ad5aa5dffa66512b8b1a4eef9f",
       "title": "2026 충남창업마루나비 하반기 입주기업 모집 공고"
     },
+    "179525": {
+      "age": "전체",
+      "checked_at": "2026-10-19T01:37:42+00:00",
+      "id": "179525",
+      "is_target": true,
+      "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179525",
+      "notified_at": "2026-10-19T01:38:54+00:00",
+      "notified_signature": "464e3527147edfd2eebe3aefcfbbf9bc2df2741972c469c162ffc35799e4711a",
+      "period": "2026-10-19 ~ 2026-11-02 23:59",
+      "signature": "464e3527147edfd2eebe3aefcfbbf9bc2df2741972c469c162ffc35799e4711a",
+      "title": "2026년 워터라운드(wateRound) 제5기 협약파트너사 모집 공고"
+    },
     "179528": {
       "age": "전체",
-      "checked_at": "2026-10-18T23:31:46+00:00",
+      "checked_at": "2026-10-19T01:36:02+00:00",
       "id": "179528",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179528",
@@ -794,7 +794,7 @@
     },
     "179529": {
       "age": "전체",
-      "checked_at": "2026-10-18T23:31:31+00:00",
+      "checked_at": "2026-10-19T01:35:48+00:00",
       "id": "179529",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179529",
@@ -806,7 +806,7 @@
     },
     "179531": {
       "age": "전체",
-      "checked_at": "2026-10-18T23:32:14+00:00",
+      "checked_at": "2026-10-19T01:36:30+00:00",
       "id": "179531",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179531",
@@ -818,7 +818,7 @@
     },
     "179533": {
       "age": "전체",
-      "checked_at": "2026-10-18T23:31:17+00:00",
+      "checked_at": "2026-10-19T01:35:34+00:00",
       "id": "179533",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179533",
@@ -830,7 +830,7 @@
     },
     "179535": {
       "age": "전체",
-      "checked_at": "2026-10-18T23:33:10+00:00",
+      "checked_at": "2026-10-19T01:37:27+00:00",
       "id": "179535",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179535",
@@ -842,7 +842,7 @@
     },
     "179536": {
       "age": "전체",
-      "checked_at": "2026-10-18T23:32:28+00:00",
+      "checked_at": "2026-10-19T01:36:44+00:00",
       "id": "179536",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179536",
@@ -854,7 +854,7 @@
     },
     "179538": {
       "age": "만 40세 이상",
-      "checked_at": "2026-10-18T23:32:42+00:00",
+      "checked_at": "2026-10-19T01:36:58+00:00",
       "id": "179538",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179538",
@@ -865,6 +865,6 @@
       "title": "2026년 여성CEO 비즈니스 아카데미 경상권역 시즌 2"
     }
   },
-  "updated_at": "2026-10-18T23:34:35+00:00",
+  "updated_at": "2026-10-19T01:38:54+00:00",
   "version": 2
 }
