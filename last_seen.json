@@ -2,7 +2,7 @@
   "posts": {
     "171419": {
       "age": "전체",
-      "checked_at": "2026-11-01T23:47:34+00:00",
+      "checked_at": "2026-11-02T04:30:07+00:00",
       "id": "171419",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=171419",
@@ -14,7 +14,7 @@
     },
     "175783": {
       "age": "전체",
-      "checked_at": "2026-11-01T23:47:19+00:00",
+      "checked_at": "2026-11-02T04:29:52+00:00",
       "id": "175783",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=175783",
@@ -26,7 +26,7 @@
     },
     "176076": {
       "age": "전체",
-      "checked_at": "2026-11-01T23:47:04+00:00",
+      "checked_at": "2026-11-02T04:29:38+00:00",
       "id": "176076",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176076",
@@ -566,7 +566,7 @@
     },
     "178802": {
       "age": "전체",
-      "checked_at": "2026-11-01T23:46:34+00:00",
+      "checked_at": "2026-11-02T04:29:08+00:00",
       "id": "178802",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178802",
@@ -578,7 +578,7 @@
     },
     "178803": {
       "age": "전체",
-      "checked_at": "2026-11-01T23:46:49+00:00",
+      "checked_at": "2026-11-02T04:29:23+00:00",
       "id": "178803",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178803",
@@ -650,7 +650,7 @@
     },
     "179408": {
       "age": "전체",
-      "checked_at": "2026-11-01T23:46:19+00:00",
+      "checked_at": "2026-11-02T04:28:54+00:00",
       "id": "179408",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179408",
@@ -674,7 +674,7 @@
     },
     "179572": {
       "age": "전체",
-      "checked_at": "2026-11-01T23:48:05+00:00",
+      "checked_at": "2026-11-02T04:30:36+00:00",
       "id": "179572",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179572",
@@ -686,7 +686,7 @@
     },
     "179636": {
       "age": "전체",
-      "checked_at": "2026-11-01T23:51:21+00:00",
+      "checked_at": "2026-11-02T04:34:01+00:00",
       "id": "179636",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179636",
@@ -698,7 +698,7 @@
     },
     "179637": {
       "age": "전체",
-      "checked_at": "2026-11-01T23:50:51+00:00",
+      "checked_at": "2026-11-02T04:33:31+00:00",
       "id": "179637",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179637",
@@ -708,21 +708,9 @@
       "signature": "c98f4d09acd994e6546f5c7c1232aadf5471cb5001b542f10ca9f1534149d778",
       "title": "서울디자인재단 「2026 서울디자인런 포럼」 참가 신청"
     },
-    "179642": {
-      "age": "전체",
-      "checked_at": "2026-11-01T23:51:36+00:00",
-      "id": "179642",
-      "is_target": true,
-      "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179642",
-      "notified_at": "2026-10-29T07:34:54+00:00",
-      "notified_signature": "d09d72b19054c361d18d38721919a3ca0ea60a341944e02d1ff86407c603c511",
-      "period": "2026-10-28 ~ 2026-11-16 12:30",
-      "signature": "d09d72b19054c361d18d38721919a3ca0ea60a341944e02d1ff86407c603c511",
-      "title": "[한국국제협력단]「 KOICA IMPACT TOGETHER 2026 」 행사"
-    },
     "179649": {
       "age": "전체",
-      "checked_at": "2026-11-01T23:51:06+00:00",
+      "checked_at": "2026-11-02T04:33:46+00:00",
       "id": "179649",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179649",
@@ -734,7 +722,7 @@
     },
     "179652": {
       "age": "전체",
-      "checked_at": "2026-11-01T23:50:36+00:00",
+      "checked_at": "2026-11-02T04:33:17+00:00",
       "id": "179652",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179652",
@@ -744,9 +732,21 @@
       "signature": "54d242b5cdf6dd3619833e88183744ff08b0899f6dc1bbb36ced4c3758a30adf",
       "title": "[행사 안내] 2026 네이버클라우드 그린하우스 : MARKET CONNECT"
     },
+    "179653": {
+      "age": "전체",
+      "checked_at": "2026-11-02T04:33:02+00:00",
+      "id": "179653",
+      "is_target": true,
+      "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179653",
+      "notified_at": "2026-11-02T04:34:01+00:00",
+      "notified_signature": "9e82eb5e149116eb34b36f377863e8658b78dd1020559e574dd55333c8cfd1b3",
+      "period": "2026-11-02 ~ 2026-11-26 13:00",
+      "signature": "9e82eb5e149116eb34b36f377863e8658b78dd1020559e574dd55333c8cfd1b3",
+      "title": "2026년도 키친인큐베이터 개별·공유주방 25기 및 제조주방 13기 모집"
+    },
     "179654": {
       "age": "전체",
-      "checked_at": "2026-11-01T23:50:21+00:00",
+      "checked_at": "2026-11-02T04:32:48+00:00",
       "id": "179654",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179654",
@@ -758,7 +758,7 @@
     },
     "179656": {
       "age": "전체",
-      "checked_at": "2026-11-01T23:50:06+00:00",
+      "checked_at": "2026-11-02T04:32:33+00:00",
       "id": "179656",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179656",
@@ -770,7 +770,7 @@
     },
     "179660": {
       "age": "전체",
-      "checked_at": "2026-11-01T23:47:49+00:00",
+      "checked_at": "2026-11-02T04:30:22+00:00",
       "id": "179660",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179660",
@@ -782,7 +782,7 @@
     },
     "179661": {
       "age": "전체",
-      "checked_at": "2026-11-01T23:49:36+00:00",
+      "checked_at": "2026-11-02T04:32:04+00:00",
       "id": "179661",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179661",
@@ -794,7 +794,7 @@
     },
     "179662": {
       "age": "전체",
-      "checked_at": "2026-11-01T23:49:51+00:00",
+      "checked_at": "2026-11-02T04:32:19+00:00",
       "id": "179662",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179662",
@@ -806,7 +806,7 @@
     },
     "179664": {
       "age": "전체",
-      "checked_at": "2026-11-01T23:49:21+00:00",
+      "checked_at": "2026-11-02T04:31:49+00:00",
       "id": "179664",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179664",
@@ -818,7 +818,7 @@
     },
     "179665": {
       "age": "전체",
-      "checked_at": "2026-11-01T23:48:50+00:00",
+      "checked_at": "2026-11-02T04:31:20+00:00",
       "id": "179665",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179665",
@@ -830,7 +830,7 @@
     },
     "179668": {
       "age": "전체",
-      "checked_at": "2026-11-01T23:48:35+00:00",
+      "checked_at": "2026-11-02T04:31:05+00:00",
       "id": "179668",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179668",
@@ -842,7 +842,7 @@
     },
     "179672": {
       "age": "전체",
-      "checked_at": "2026-11-01T23:49:05+00:00",
+      "checked_at": "2026-11-02T04:31:35+00:00",
       "id": "179672",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179672",
@@ -854,7 +854,7 @@
     },
     "179674": {
       "age": "전체",
-      "checked_at": "2026-11-01T23:48:20+00:00",
+      "checked_at": "2026-11-02T04:30:51+00:00",
       "id": "179674",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179674",
@@ -865,6 +865,6 @@
       "title": "스타트업을 위한 정부 R&D 특강"
     }
   },
-  "updated_at": "2026-11-01T23:51:36+00:00",
+  "updated_at": "2026-11-02T04:34:01+00:00",
   "version": 2
 }
