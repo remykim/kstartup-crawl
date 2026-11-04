@@ -2,7 +2,7 @@
   "posts": {
     "171419": {
       "age": "전체",
-      "checked_at": "2026-11-04T06:53:15+00:00",
+      "checked_at": "2026-11-04T15:06:52+00:00",
       "id": "171419",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=171419",
@@ -14,7 +14,7 @@
     },
     "175783": {
       "age": "전체",
-      "checked_at": "2026-11-04T06:53:01+00:00",
+      "checked_at": "2026-11-04T15:06:38+00:00",
       "id": "175783",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=175783",
@@ -26,7 +26,7 @@
     },
     "176076": {
       "age": "전체",
-      "checked_at": "2026-11-04T06:52:47+00:00",
+      "checked_at": "2026-11-04T15:06:24+00:00",
       "id": "176076",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176076",
@@ -566,7 +566,7 @@
     },
     "178802": {
       "age": "전체",
-      "checked_at": "2026-11-04T06:52:19+00:00",
+      "checked_at": "2026-11-04T15:05:56+00:00",
       "id": "178802",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178802",
@@ -578,7 +578,7 @@
     },
     "178803": {
       "age": "전체",
-      "checked_at": "2026-11-04T06:52:33+00:00",
+      "checked_at": "2026-11-04T15:06:10+00:00",
       "id": "178803",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178803",
@@ -660,21 +660,9 @@
       "signature": "68ac22328ba7ba7993ab4acaf316c109155f57e46b6b33707642f6325e3afedb",
       "title": "「민관협력 오픈이노베이션 지원」2026년 제2차 상호 자율탐색형(바이오 분야) 참여기업 모집공고"
     },
-    "179428": {
-      "age": "전체",
-      "checked_at": "2026-10-29T01:14:50+00:00",
-      "id": "179428",
-      "is_target": true,
-      "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179428",
-      "notified_at": "2026-10-08T02:37:03+00:00",
-      "notified_signature": "5cbd447e24f82e3a00e72c3b8f5a6134a960f900e13ed691b9d044d7ba12f282",
-      "period": "2026-10-08 ~ 2026-10-29 15:00",
-      "signature": "5cbd447e24f82e3a00e72c3b8f5a6134a960f900e13ed691b9d044d7ba12f282",
-      "title": "2027년 초격차 스타트업 프로젝트 정부 첫 실증·구매 주관기관 모집공고"
-    },
     "179683": {
       "age": "전체",
-      "checked_at": "2026-11-04T06:54:12+00:00",
+      "checked_at": "2026-11-04T15:07:49+00:00",
       "id": "179683",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179683",
@@ -686,7 +674,7 @@
     },
     "179687": {
       "age": "만 20세 이상 ~ 만 39세 이하",
-      "checked_at": "2026-11-04T06:56:46+00:00",
+      "checked_at": "2026-11-04T15:10:26+00:00",
       "id": "179687",
       "is_target": false,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179687",
@@ -696,7 +684,7 @@
     },
     "179694": {
       "age": "전체",
-      "checked_at": "2026-11-04T06:53:58+00:00",
+      "checked_at": "2026-11-04T15:07:35+00:00",
       "id": "179694",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179694",
@@ -708,7 +696,7 @@
     },
     "179695": {
       "age": "전체",
-      "checked_at": "2026-11-04T06:55:50+00:00",
+      "checked_at": "2026-11-04T15:09:29+00:00",
       "id": "179695",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179695",
@@ -720,7 +708,7 @@
     },
     "179696": {
       "age": "전체",
-      "checked_at": "2026-11-04T06:55:08+00:00",
+      "checked_at": "2026-11-04T15:08:46+00:00",
       "id": "179696",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179696",
@@ -730,9 +718,21 @@
       "signature": "14c128c1618377e4dd1a0156e2dad45d9e50751f6817eb35508a7e463313ace3",
       "title": "[부산대학교병원]「의료·헬스케어 스타트업 인큐베이터 사업」입주기업 모집공고"
     },
+    "179698": {
+      "age": "전체",
+      "checked_at": "2026-11-04T15:07:07+00:00",
+      "id": "179698",
+      "is_target": true,
+      "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179698",
+      "notified_at": "2026-11-04T15:10:41+00:00",
+      "notified_signature": "2b8804ffadee928ff35b9d59cf66a376f26ab9be470dcf206bc587c60333f0ab",
+      "period": "2026-11-05 ~ 2026-12-11 18:00",
+      "signature": "2b8804ffadee928ff35b9d59cf66a376f26ab9be470dcf206bc587c60333f0ab",
+      "title": "신산업 분야 및 시장전문가 예비위원단 공개모집"
+    },
     "179699": {
       "age": "만 20세 이상 ~ 만 39세 이하",
-      "checked_at": "2026-11-04T06:56:32+00:00",
+      "checked_at": "2026-11-04T15:10:12+00:00",
       "id": "179699",
       "is_target": false,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179699",
@@ -742,7 +742,7 @@
     },
     "179700": {
       "age": "전체",
-      "checked_at": "2026-11-04T06:56:18+00:00",
+      "checked_at": "2026-11-04T15:09:57+00:00",
       "id": "179700",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179700",
@@ -754,7 +754,7 @@
     },
     "179701": {
       "age": "만 20세 이상 ~ 만 39세 이하, 만 40세 이상",
-      "checked_at": "2026-11-04T06:54:40+00:00",
+      "checked_at": "2026-11-04T15:08:18+00:00",
       "id": "179701",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179701",
@@ -766,7 +766,7 @@
     },
     "179703": {
       "age": "전체",
-      "checked_at": "2026-11-04T06:54:26+00:00",
+      "checked_at": "2026-11-04T15:08:04+00:00",
       "id": "179703",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179703",
@@ -778,7 +778,7 @@
     },
     "179704": {
       "age": "전체",
-      "checked_at": "2026-11-04T06:56:04+00:00",
+      "checked_at": "2026-11-04T15:09:43+00:00",
       "id": "179704",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179704",
@@ -790,7 +790,7 @@
     },
     "179705": {
       "age": "만 20세 이상 ~ 만 39세 이하, 만 40세 이상",
-      "checked_at": "2026-11-04T06:53:43+00:00",
+      "checked_at": "2026-11-04T15:05:42+00:00",
       "id": "179705",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179705",
@@ -802,7 +802,7 @@
     },
     "179707": {
       "age": "전체",
-      "checked_at": "2026-11-04T06:55:36+00:00",
+      "checked_at": "2026-11-04T15:09:15+00:00",
       "id": "179707",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179707",
@@ -814,7 +814,7 @@
     },
     "179708": {
       "age": "전체",
-      "checked_at": "2026-11-04T06:53:29+00:00",
+      "checked_at": "2026-11-04T15:07:21+00:00",
       "id": "179708",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179708",
@@ -826,7 +826,7 @@
     },
     "179709": {
       "age": "전체",
-      "checked_at": "2026-11-04T06:57:01+00:00",
+      "checked_at": "2026-11-04T15:10:40+00:00",
       "id": "179709",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179709",
@@ -838,7 +838,7 @@
     },
     "179712": {
       "age": "만 20세 미만, 만 20세 이상 ~ 만 39세 이하",
-      "checked_at": "2026-11-04T06:55:22+00:00",
+      "checked_at": "2026-11-04T15:09:01+00:00",
       "id": "179712",
       "is_target": false,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179712",
@@ -848,7 +848,7 @@
     },
     "179714": {
       "age": "만 40세 이상",
-      "checked_at": "2026-11-04T06:54:54+00:00",
+      "checked_at": "2026-11-04T15:08:32+00:00",
       "id": "179714",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179714",
@@ -859,6 +859,6 @@
       "title": "김해시중장년기술창업센터 2026년 하반기 신규 입주(자)기업 모집"
     }
   },
-  "updated_at": "2026-11-04T06:57:08+00:00",
+  "updated_at": "2026-11-04T15:10:41+00:00",
   "version": 2
 }
