@@ -2,7 +2,7 @@
   "posts": {
     "171419": {
       "age": "전체",
-      "checked_at": "2026-11-12T07:34:00+00:00",
+      "checked_at": "2026-11-12T16:36:43+00:00",
       "id": "171419",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=171419",
@@ -14,7 +14,7 @@
     },
     "175783": {
       "age": "전체",
-      "checked_at": "2026-11-12T07:33:46+00:00",
+      "checked_at": "2026-11-12T16:36:29+00:00",
       "id": "175783",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=175783",
@@ -26,7 +26,7 @@
     },
     "176076": {
       "age": "전체",
-      "checked_at": "2026-11-12T07:33:33+00:00",
+      "checked_at": "2026-11-12T16:36:14+00:00",
       "id": "176076",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176076",
@@ -578,7 +578,7 @@
     },
     "178802": {
       "age": "전체",
-      "checked_at": "2026-11-12T07:33:05+00:00",
+      "checked_at": "2026-11-12T16:35:45+00:00",
       "id": "178802",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178802",
@@ -590,7 +590,7 @@
     },
     "178803": {
       "age": "전체",
-      "checked_at": "2026-11-12T07:33:19+00:00",
+      "checked_at": "2026-11-12T16:36:00+00:00",
       "id": "178803",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178803",
@@ -648,33 +648,9 @@
       "signature": "439659b9ecf61e12585ef9a5b92d0a8fdbd840ad4c7cdc982cfe2538ca7bf1c8",
       "title": "「모두의 창업 프로젝트」통합 모집공고 2차"
     },
-    "179579": {
-      "age": "만 40세 이상",
-      "checked_at": "2026-11-10T02:03:24+00:00",
-      "id": "179579",
-      "is_target": true,
-      "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179579",
-      "notified_at": "2026-11-09T08:31:10+00:00",
-      "notified_signature": "8df3750ef2fd943f10fb73c066621b2a1828cab74d38fde20c7742eff77ea631",
-      "period": "2026-10-20 ~ 2026-11-10 23:59",
-      "signature": "8df3750ef2fd943f10fb73c066621b2a1828cab74d38fde20c7742eff77ea631",
-      "title": "2026년 여성CEO 비즈니스 아카데미 인천경기권역 시즌 2"
-    },
-    "179626": {
-      "age": "전체",
-      "checked_at": "2026-11-12T07:37:10+00:00",
-      "id": "179626",
-      "is_target": true,
-      "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179626",
-      "notified_at": "2026-11-10T09:41:44+00:00",
-      "notified_signature": "20f42e00119bec569d49117c0229544c11f9c241704d9a0cddd8c122b7d4f081",
-      "period": "2026-11-09 ~ 2026-11-23 18:00",
-      "signature": "20f42e00119bec569d49117c0229544c11f9c241704d9a0cddd8c122b7d4f081",
-      "title": "세종창업키움센터 운영 민간위탁 수탁기관 모집 재공고"
-    },
     "179690": {
       "age": "전체",
-      "checked_at": "2026-11-12T07:35:48+00:00",
+      "checked_at": "2026-11-12T16:40:50+00:00",
       "id": "179690",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179690",
@@ -686,7 +662,7 @@
     },
     "179698": {
       "age": "전체",
-      "checked_at": "2026-11-12T07:34:27+00:00",
+      "checked_at": "2026-11-12T16:37:12+00:00",
       "id": "179698",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179698",
@@ -698,7 +674,7 @@
     },
     "179705": {
       "age": "만 20세 이상 ~ 만 39세 이하, 만 40세 이상",
-      "checked_at": "2026-11-12T07:32:52+00:00",
+      "checked_at": "2026-11-12T16:35:31+00:00",
       "id": "179705",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179705",
@@ -708,45 +684,9 @@
       "signature": "478877131f0c95bf1b9eaf9973bfbd27c034030ffdab6d4d6e1e22ddb6a8ef53",
       "title": "2027년도 초기창업·창업도약 패키지 사업 신규 주관기관 모집 수정공고"
     },
-    "179758": {
-      "age": "전체",
-      "checked_at": "2026-11-12T07:37:37+00:00",
-      "id": "179758",
-      "is_target": true,
-      "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179758",
-      "notified_at": "2026-11-09T08:31:07+00:00",
-      "notified_signature": "9292031e49386bd45ac5e7ab0c8b0530a890b88697314bf74273c2fd59f58e8f",
-      "period": "2026-11-09 ~ 2026-12-06 18:00",
-      "signature": "9292031e49386bd45ac5e7ab0c8b0530a890b88697314bf74273c2fd59f58e8f",
-      "title": "경기창업혁신공간(동부권역_하남) 2026년 11월 신규 입주기업 모집"
-    },
-    "179760": {
-      "age": "전체",
-      "checked_at": "2026-11-12T07:36:16+00:00",
-      "id": "179760",
-      "is_target": true,
-      "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179760",
-      "notified_at": "2026-11-10T09:41:42+00:00",
-      "notified_signature": "5645e358667fff20570d2627b16aedcb42262c6e1676c86fd61fceef5374f6fc",
-      "period": "2026-11-09 ~ 2026-11-13 13:00",
-      "signature": "5645e358667fff20570d2627b16aedcb42262c6e1676c86fd61fceef5374f6fc",
-      "title": "[2026년 대전창업문화주간] 제 3회 대전창업문화 주간(창업의 시작과 끝)"
-    },
-    "179761": {
-      "age": "만 20세 이상 ~ 만 39세 이하, 만 40세 이상",
-      "checked_at": "2026-11-12T07:36:02+00:00",
-      "id": "179761",
-      "is_target": true,
-      "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179761",
-      "notified_at": "2026-11-10T09:41:41+00:00",
-      "notified_signature": "9433c18bdd644a0c8a21ea77c82b7614a6d5eef9a794de9b571a74f2d8afca83",
-      "period": "2026-11-09 ~ 2026-11-30 18:00",
-      "signature": "9433c18bdd644a0c8a21ea77c82b7614a6d5eef9a794de9b571a74f2d8afca83",
-      "title": "2026년 한라대학교 창업보육센터 11월 신규입주기업 모집 공고"
-    },
     "179762": {
       "age": "전체",
-      "checked_at": "2026-11-12T07:34:14+00:00",
+      "checked_at": "2026-11-12T16:36:58+00:00",
       "id": "179762",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179762",
@@ -756,57 +696,9 @@
       "signature": "fc8dbf57af7c49e7f5d40883949d67a3f29b8a1894bf31d99d4572c1280c7f11",
       "title": "2026년 스타트업 법률지원사업 제주특별자치도 법률상담회 참여기업 모집"
     },
-    "179763": {
-      "age": "전체",
-      "checked_at": "2026-11-12T07:36:29+00:00",
-      "id": "179763",
-      "is_target": true,
-      "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179763",
-      "notified_at": "2026-11-10T09:41:42+00:00",
-      "notified_signature": "bd984073e566d7ba2a0cc5d67519967d4db2f2b199e507c7867f5d11e95c6c08",
-      "period": "2026-11-10 ~ 2026-11-20 14:00",
-      "signature": "bd984073e566d7ba2a0cc5d67519967d4db2f2b199e507c7867f5d11e95c6c08",
-      "title": "[행사 안내] 2026 경기도 R&D 성과공유회"
-    },
-    "179764": {
-      "age": "전체",
-      "checked_at": "2026-11-12T07:36:43+00:00",
-      "id": "179764",
-      "is_target": true,
-      "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179764",
-      "notified_at": "2026-11-10T09:41:43+00:00",
-      "notified_signature": "1eb7722fa1bb9e972004b1076bdf470a79ac0f7b49778573ef87c6f8d8180711",
-      "period": "2026-11-10 ~ 2026-11-17 00:00",
-      "signature": "1eb7722fa1bb9e972004b1076bdf470a79ac0f7b49778573ef87c6f8d8180711",
-      "title": "[알파브라더스] 「2026 충청 스타트업 벤처포럼」 2회차-오픈이노베이션 교류회 참가 안내의 건"
-    },
-    "179765": {
-      "age": "전체",
-      "checked_at": "2026-11-12T07:37:24+00:00",
-      "id": "179765",
-      "is_target": true,
-      "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179765",
-      "notified_at": "2026-11-11T09:49:22+00:00",
-      "notified_signature": "3405010283b2df5884e4ed03f6ac2ea91f5a8eaf3e07ad973c13b00cc6a24714",
-      "period": "2026-11-11 ~ 2026-11-17 23:59",
-      "signature": "3405010283b2df5884e4ed03f6ac2ea91f5a8eaf3e07ad973c13b00cc6a24714",
-      "title": "STARTUP STARRY NIGHT in Seoul 1:1 밋업(투자, O.I.) 참여기업 모집(11월 허브아워)"
-    },
-    "179766": {
-      "age": "전체",
-      "checked_at": "2026-11-12T07:36:56+00:00",
-      "id": "179766",
-      "is_target": true,
-      "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179766",
-      "notified_at": "2026-11-10T09:41:44+00:00",
-      "notified_signature": "bf6de4615963525269162c65c4f488207f8f44d665a060e0aa88b12c61334c89",
-      "period": "2026-11-09 ~ 2026-11-23 14:00",
-      "signature": "bf6de4615963525269162c65c4f488207f8f44d665a060e0aa88b12c61334c89",
-      "title": "[강동구 청년해냄센터] 2027년 정부 지원 사업 대비 성공 창업 스쿨 참가자 모집 공고"
-    },
     "179769": {
       "age": "전체",
-      "checked_at": "2026-11-12T07:35:35+00:00",
+      "checked_at": "2026-11-12T16:40:35+00:00",
       "id": "179769",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179769",
@@ -818,7 +710,7 @@
     },
     "179771": {
       "age": "전체",
-      "checked_at": "2026-11-12T07:34:54+00:00",
+      "checked_at": "2026-11-12T16:39:51+00:00",
       "id": "179771",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179771",
@@ -830,7 +722,7 @@
     },
     "179772": {
       "age": "만 20세 이상 ~ 만 39세 이하",
-      "checked_at": "2026-11-12T07:35:08+00:00",
+      "checked_at": "2026-11-12T16:40:06+00:00",
       "id": "179772",
       "is_target": false,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179772",
@@ -840,7 +732,7 @@
     },
     "179775": {
       "age": "전체",
-      "checked_at": "2026-11-12T07:35:21+00:00",
+      "checked_at": "2026-11-12T16:40:21+00:00",
       "id": "179775",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179775",
@@ -852,7 +744,7 @@
     },
     "179776": {
       "age": "만 20세 이상 ~ 만 39세 이하, 만 40세 이상",
-      "checked_at": "2026-11-12T07:34:41+00:00",
+      "checked_at": "2026-11-12T16:39:37+00:00",
       "id": "179776",
       "is_target": true,
       "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179776",
@@ -861,8 +753,112 @@
       "period": "2026-11-12 ~ 2026-11-20 18:00",
       "signature": "3f4c87300702c0530c865fe0fa3fbdac01d481a918cc308f70ac48feb1d42f74",
       "title": "호서대학교 서울창업보육센터 신규입주모집 공고"
+    },
+    "179778": {
+      "age": "전체",
+      "checked_at": "2026-11-12T16:38:54+00:00",
+      "id": "179778",
+      "is_target": true,
+      "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179778",
+      "notified_at": "2026-11-12T16:40:53+00:00",
+      "notified_signature": "beb31906d974f25b39b537661df6f1502cd8942c75059a11b31d16970c617551",
+      "period": "2026-11-10 ~ 2026-11-23 18:00",
+      "signature": "beb31906d974f25b39b537661df6f1502cd8942c75059a11b31d16970c617551",
+      "title": "2026년 기업공개(IPO) 상장지원 인사이트데이 참가자 모집(~11.23)"
+    },
+    "179784": {
+      "age": "전체",
+      "checked_at": "2026-11-12T16:37:27+00:00",
+      "id": "179784",
+      "is_target": true,
+      "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179784",
+      "notified_at": "2026-11-12T16:40:51+00:00",
+      "notified_signature": "7f93f6a0543ce8bbce63d3e32e07177bc205e36894328f0aae6e6ef40a57c024",
+      "period": "2026-11-12 ~ 2026-11-23 18:00",
+      "signature": "7f93f6a0543ce8bbce63d3e32e07177bc205e36894328f0aae6e6ef40a57c024",
+      "title": "2026년 서울지식재산센터 IP창업클럽: 스타트업 IP:ON (~11/23까지, 선착순)"
+    },
+    "179786": {
+      "age": "전체",
+      "checked_at": "2026-11-12T16:37:41+00:00",
+      "id": "179786",
+      "is_target": true,
+      "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179786",
+      "notified_at": "2026-11-12T16:40:51+00:00",
+      "notified_signature": "095bae0b951faf13819333b1c863b77beafbf733dda24c10651a47db5ec0cbac",
+      "period": "2026-11-11 ~ 2026-11-30 18:00",
+      "signature": "095bae0b951faf13819333b1c863b77beafbf733dda24c10651a47db5ec0cbac",
+      "title": "충북대학교 『글로벌(G)테크벤처센터(BI) 』 입주기업 모집"
+    },
+    "179788": {
+      "age": "전체",
+      "checked_at": "2026-11-12T16:37:56+00:00",
+      "id": "179788",
+      "is_target": true,
+      "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179788",
+      "notified_at": "2026-11-12T16:40:52+00:00",
+      "notified_signature": "7aae5267246e86849848e39b249baaeadccd8c36b26aa89b8ae2a5620297bf4a",
+      "period": "2026-11-12 ~ 2026-11-13 13:00",
+      "signature": "7aae5267246e86849848e39b249baaeadccd8c36b26aa89b8ae2a5620297bf4a",
+      "title": "<2026년 베트남 제조창업 스케일업 프로그램> 참여기업 모집 공고"
+    },
+    "179790": {
+      "age": "만 20세 이상 ~ 만 39세 이하",
+      "checked_at": "2026-11-12T16:38:10+00:00",
+      "id": "179790",
+      "is_target": false,
+      "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179790",
+      "period": "2026-11-12 ~ 2026-11-25 18:00",
+      "signature": "ecd50533362e2ca3b0444a944e10e939485c042c1a9ce75a3c4c9341abc27c10",
+      "title": "구로구 청년창업지원센터 일반 창업교육(하반기: 7회차): 사업계획서 작성 요령"
+    },
+    "179791": {
+      "age": "전체",
+      "checked_at": "2026-11-12T16:38:25+00:00",
+      "id": "179791",
+      "is_target": true,
+      "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179791",
+      "notified_at": "2026-11-12T16:40:52+00:00",
+      "notified_signature": "f82d5c467757d031421fc80c001f22d4f84e1528876e726b58d7056d0184232f",
+      "period": "2026-11-12 ~ 2026-11-22 18:00",
+      "signature": "f82d5c467757d031421fc80c001f22d4f84e1528876e726b58d7056d0184232f",
+      "title": "경기창업혁신공간 서부권 「스담스담」(오픈 네트워킹) 4회차"
+    },
+    "179793": {
+      "age": "전체",
+      "checked_at": "2026-11-12T16:38:39+00:00",
+      "id": "179793",
+      "is_target": true,
+      "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179793",
+      "notified_at": "2026-11-12T16:40:53+00:00",
+      "notified_signature": "b9e7cc67412bae9ba6acd69559526cbdfe74470504a09d7f59021682d526b353",
+      "period": "2026-11-12 ~ 2026-11-24 15:00",
+      "signature": "b9e7cc67412bae9ba6acd69559526cbdfe74470504a09d7f59021682d526b353",
+      "title": "[경과원 X 나이스디앤비] 스타트업 공공시장 진출 실전 특강 - 공공입찰부터 기업·기술평가까지 한번에!"
+    },
+    "179794": {
+      "age": "전체",
+      "checked_at": "2026-11-12T16:39:08+00:00",
+      "id": "179794",
+      "is_target": true,
+      "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179794",
+      "notified_at": "2026-11-12T16:40:54+00:00",
+      "notified_signature": "6b8945a8d09f31fe8aac9cd09a4d66f0aa686fc4d168a654cd94be662fe20cdc",
+      "period": "2026-11-12 ~ 2026-11-23 15:00",
+      "signature": "6b8945a8d09f31fe8aac9cd09a4d66f0aa686fc4d168a654cd94be662fe20cdc",
+      "title": "2026 서울게임콘텐츠센터 프라이빗 IR 참가기업 모집"
+    },
+    "179795": {
+      "age": "만 20세 이상 ~ 만 39세 이하",
+      "checked_at": "2026-11-12T16:39:22+00:00",
+      "id": "179795",
+      "is_target": false,
+      "link": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179795",
+      "period": "2026-11-11 ~ 2026-11-20 14:00",
+      "signature": "7db3696d046442ffb720dcd441e91f2c43af1838369fba64194f3cc568abe28d",
+      "title": "[창업 디자이너 양성과정] 마포 디자인 크리에이터 스쿨"
     }
   },
-  "updated_at": "2026-11-12T07:37:37+00:00",
+  "updated_at": "2026-11-12T16:40:54+00:00",
   "version": 2
 }
